@@ -4,10 +4,10 @@ Thumbs.db
 
 # Browser automation / session artifacts
 .playwright-mcp/
-flowise-home.png
+/flowise-home.png
 
 # Stray exports (not used by the site)
-about-figure-only.png
+/about-figure-only.png
 
 # Sass
 .sass-cache/

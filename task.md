@@ -14,19 +14,19 @@ business based in Box Hill, NSW, Australia.
 
 ## 1. Business Details (source: Google Maps listing)
 
-| Field            | Value                                              |
-| ---------------- | -------------------------------------------------- |
-| Business name    | Flowise Plumbing                                   |
-| Category         | Plumber                                            |
-| Rating           | ⭐ 5.0                                              |
-| Address          | 4 Terry Rd, Box Hill NSW 2765, Australia           |
-| Phone            | +61 490 528 490  (`tel:+61490528490`)              |
-| Hours            | Open 24 hours / 7 days                             |
-| Plus Code        | 8VRW+86 Box Hill, NSW, Australia                   |
-| Service area     | Box Hill & Sydney's Hills District / North-West    |
-| Website          | None yet — this project will be the first          |
-| Google Place ID  | /g/11njp1wq8j                                       |
-| Coordinates      | -33.6591659, 150.8955319                            |
+| Field           | Value                                           |
+| --------------- | ----------------------------------------------- |
+| Business name   | Flowise Plumbing                                |
+| Category        | Plumber                                         |
+| Rating          | ⭐ 5.0                                          |
+| Address         | 4 Terry Rd, Box Hill NSW 2765, Australia        |
+| Phone           | +61 490 528 490 (`tel:+61490528490`)            |
+| Hours           | Open 24 hours / 7 days                          |
+| Plus Code       | 8VRW+86 Box Hill, NSW, Australia                |
+| Service area    | Box Hill & Sydney's Hills District / North-West |
+| Website         | None yet — this project will be the first       |
+| Google Place ID | /g/11njp1wq8j                                   |
+| Coordinates     | -33.6591659, 150.8955319                        |
 
 ---
 
@@ -38,17 +38,6 @@ business based in Box Hill, NSW, Australia.
 - **Image reuse** — the same image asset(s) will be reused across multiple sections;
   reference shared assets rather than duplicating files.
 - Do **not** start coding yet — this file defines the plan only.
-
-### Developer credit block (top of every SCSS file)
-
-```scss
-// ─────────────────────────────────────────────────────────────
-// Designed & developed by
-// Biplab Kumar Paul — Web Designer & Developer
-// Mobile: 01735 927356
-// Email:  biplab.cse.85@gmail.com
-// ─────────────────────────────────────────────────────────────
-```
 
 ---
 
